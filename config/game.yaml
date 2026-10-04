@@ -1,0 +1,6 @@
+extends: scientific.yaml
+dataset: game
+run_name: hgig
+data_path: ./data
+semantic_emb_path: game_emb_256.npy
+sid_path: ./data/game/game.sid.json

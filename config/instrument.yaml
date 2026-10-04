@@ -1,0 +1,6 @@
+extends: scientific.yaml
+dataset: instrument
+run_name: hgig
+data_path: ./data
+semantic_emb_path: instrument_emb_256.npy
+sid_path: ./data/instrument/instrument.sid.json
